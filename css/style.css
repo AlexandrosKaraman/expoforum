@@ -2,35 +2,35 @@
 @font-face {
   font-family: Plumb-black;
   /* Имя шрифта */
-  src: url(/fonts/plumb-black.otf);
+  src: url("../fonts/plumb-black.otf");
   /* Путь к файлу со шрифтом */
 }
 
 @font-face {
   font-family: Plumb-bold;
   /* Имя шрифта */
-  src: url(/fonts/plumb-bold.otf);
+  src: url("../fonts/plumb-bold.otf");
   /* Путь к файлу со шрифтом */
 }
 
 @font-face {
   font-family: Plumb-light;
   /* Имя шрифта */
-  src: url(/fonts/plumb-light.otf);
+  src: url("../fonts/plumb-light.otf");
   /* Путь к файлу со шрифтом */
 }
 
 @font-face {
   font-family: Plumb-medium;
   /* Имя шрифта */
-  src: url(/fonts/plumb-medium.otf);
+  src: url("../fonts/plumb-medium.otf");
   /* Путь к файлу со шрифтом */
 }
 
 @font-face {
   font-family: Plumb-regular;
   /* Имя шрифта */
-  src: url(/fonts/plumb-regular.otf);
+  src: url("../fonts/plumb-regular.otf");
   /* Путь к файлу со шрифтом */
 }
 
@@ -45,7 +45,7 @@ body {
 .section__header {
   width: 100%;
   height: 800px;
-  background: url(/img/headerbg.png);
+  background: url("../img/headerbg.png");
   background-size: cover;
 }
 
